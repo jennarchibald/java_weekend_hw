@@ -4,7 +4,7 @@ import MusicShop.InstrumentTypes;
 
 public class Guitar extends Instrument {
 
-    int numberOfStrings;
+    private int numberOfStrings;
 
     public Guitar(double buyPrice, double sellPrice, int numberOfStrings) {
         super(buyPrice, sellPrice, InstrumentTypes.STRING);

@@ -1,6 +1,6 @@
 package MusicShop.Instruments;
 
-import MusicShop.InstrumentTypes;
+import MusicShop.Enums.InstrumentTypes;
 
 public class Guitar extends Instrument {
 

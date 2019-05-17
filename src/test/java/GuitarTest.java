@@ -1,4 +1,4 @@
-import MusicShop.InstrumentTypes;
+import MusicShop.Enums.InstrumentTypes;
 import MusicShop.Instruments.Guitar;
 import org.junit.Before;
 import org.junit.Test;

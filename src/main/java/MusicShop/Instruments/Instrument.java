@@ -1,6 +1,6 @@
 package MusicShop.Instruments;
 
-import MusicShop.InstrumentTypes;
+import MusicShop.Enums.InstrumentTypes;
 import MusicShop.Interfaces.IPlay;
 import MusicShop.Interfaces.ISell;
 

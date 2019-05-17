@@ -1,4 +1,4 @@
-package MusicShop;
+package MusicShop.Enums;
 
 public enum InstrumentTypes {
 
